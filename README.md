@@ -1,3 +1,32 @@
+## Tecnologias utilizadas:
+
+ReactJs
+
+## Conexões:
+
+API - tmbd.com
+FireBase
+
+
+## Descrição 
+
+Projeto de representação da Netflix com conexão a API do site tmdb para buscar filmes e login e registros utilizando o firebase
+
+
+## Telas
+
+![image](https://user-images.githubusercontent.com/57717982/130365976-1b2ee55d-6d93-4807-92ea-d9067456bc25.png)
+
+![image](https://user-images.githubusercontent.com/57717982/130366003-0fc6fa26-3e3c-4713-8dee-a22e88204579.png)
+
+![image](https://user-images.githubusercontent.com/57717982/130366025-b0734823-d74e-461f-a02a-13b69e2635a6.png)
+
+![image](https://user-images.githubusercontent.com/57717982/130366033-ab7f4183-0153-4b9e-a2fb-b638aa2cfb44.png)
+
+![image](https://user-images.githubusercontent.com/57717982/130366039-fdc2a2aa-4f07-489d-a5f5-ab6c8e80ef72.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +95,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
