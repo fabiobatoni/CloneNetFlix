@@ -27,6 +27,8 @@ Projeto de representação da Netflix com conexão a API do site tmdb para busca
 
 
 
+## Complementos
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
