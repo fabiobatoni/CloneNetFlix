@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+}
+
+
+
+.login{
+  width: 320px;
+  height: 420px;
+  border: 2px solid #000;
+  border-radius: 10px 10px 10px 10px;
+  color: #FFF;
+  background-color: rgba(0, 0, 5, 0.8);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 68px 28px;
+}
+
+.logo{
+  border-radius: 50%;
+  border: 2px solid #FFF;
+  position: absolute;
+  top: -50px;
+  left: 112px;
+}
+
+h1{
+  margin: 0;
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 20px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 25px;
+}
+
+.login p{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.login input{
+  width: 100%;
+  margin-bottom: 21px;
+
+}
+
+.login input[type="text"], input[type="password"]{
+  border: none;
+  border-bottom: 1px solid white;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: white;
+  font-size: 16px;
+}
+
+.login button[type="button"]{
+  border: none;
+  outline: none;
+  height: 45px;
+  width: 250px;
+  font-size: 20px;
+  color: #000;
+  background: #FFF;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.login button[type="button"]:hover{
+  cursor: pointer;
+  background: red;
+  color: #FFFF;
+  transition: 0.2s;
+}
+
+.login a {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: #4b4b4b;
+  transition: 0.2s;
+}
+
+.login a:hover{
+  transition: 0.2s;
+  color: #ff4d4d
+}
+
+.div{
+  padding-top: 20px;
+}
+
+h3{
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: #4b4b4b;
+  transition: 0.2s;
+}
+
+/*header*/
+
+.headerLogoLogin{
+  height: 100px;
+  margin-left: 80px;
+  padding-top: 30px;
+}
+
+.headerLogoLogin img{
+  height: 100%;
+}
+
+
+/*footer*/
+.footer--login {
+  margin-top: 780px;
+  text-align: center;
+  background-color: rgba(0, 0, 5, 0.6);
+  color: #FFF;
+  padding-top: 50px;
+  padding: 50px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  
+}
+
+.type-msg h3{
+  text-align: center;
+  color: #FFFF;
+}
+
