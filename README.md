@@ -13,7 +13,7 @@ FireBase
 Projeto de representação da Netflix com conexão a API do site tmdb para buscar filmes e login e registros utilizando o firebase
 
 
-## Telas
+## Aplicação
 
 ![image](https://user-images.githubusercontent.com/57717982/130365976-1b2ee55d-6d93-4807-92ea-d9067456bc25.png)
 
