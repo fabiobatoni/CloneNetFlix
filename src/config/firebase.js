@@ -1,9 +1,9 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCZmtTA-UZ1Z55n6tgFVpB3qmu0AxRIWF4",
-    authDomain: "clonenetflix-a2123.firebaseapp.com",
-    databaseURL: "https://clonenetflix-a2123.firebaseio.com",
+    apiKey: "Sua Chave Secreta",
+    authDomain: "Seu dominio.com",
+    databaseURL: "https://seu dominio.firebaseio.com",
     projectId: "clonenetflix-a2123",
     storageBucket: "clonenetflix-a2123.appspot.com",
     messagingSenderId: "828410679962",
